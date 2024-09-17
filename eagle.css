@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://raw.githubusercontent.com/prodbyeagle/react-portfolio/master/src/assets/eagle.gif?token=GHSAT0AAAAAACXE3II32SAZSV2HWHQD7YSYZXJLPNA'); /* custom icon url */
+	--moon-icon-url: url('https://raw.githubusercontent.com/prodbyeagle/eagle-midnight/2162bbcc703524abeee03b8d2062fac4da6a0b83/1f985.gif'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
